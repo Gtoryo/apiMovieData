@@ -1,4 +1,4 @@
-from moviessdk import MovieClient, MovieConfig
+from movies_api_sdk import MovieClient, MovieConfig
 
 # Initialisation du client avec l'URL de l'API
 config = MovieConfig(

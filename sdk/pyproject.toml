@@ -3,8 +3,9 @@ requires = ["setuptools>=78.1.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "moviessdk"
-version = "0.0.1"
+name = "movies_api_sdk"
+version = "0.0.2"
+readme = "README.md"
 authors = [
   { name="[Stéphane GANTSIE]" },
 ]
